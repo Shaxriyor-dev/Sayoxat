@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    height: 100vh;
+
+}
+
+.lik {
+    font-size: 18px;
+    margin: 10px;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.liko {
+    font-size: 37px;
+    margin: 10px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.texts {
+    color:
+        #CACACA;
+    width: 865px;
+    font-size: 16px;
+    line-height: 26px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cond {
+    height: 479px;
+    width: 570px;
+    background: 
+    #e8e7e7;
+    border:  solid 1px 
+    #CACACA;
+    border-radius: 24px;
+}
